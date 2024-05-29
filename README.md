@@ -1,4 +1,6 @@
 # home-page-个人主页
+gitee地址：[gitee/felikschen](https://gitee.com/felikschen)
+
 效果图仅首页，更多参考线上: [演示地址](http://aier.asia)
 
 效果图：
